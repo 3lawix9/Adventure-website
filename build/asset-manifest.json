@@ -1,21 +1,20 @@
 {
-  "files": {
-    "main.css": "/static/css/main.98cf866a.css",
-    "main.js": "/static/js/main.d5792e1c.js",
-    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-6.jpg": "/static/media/img-6.047226b0f6080d5b242c.jpg",
-    "static/media/img-3.jpg": "/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-home.jpg": "/static/media/img-home.c034239ee9a63564602b.jpg",
-    "static/media/img-9.jpg": "/static/media/img-9.f97f588f3670715d01b2.jpg",
-    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/index.html",
-    "main.98cf866a.css.map": "/static/css/main.98cf866a.css.map",
-    "main.d5792e1c.js.map": "/static/js/main.d5792e1c.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.98cf866a.css",
-    "static/js/main.d5792e1c.js"
-  ]
+  "main.css": "/static/css/main.8cdf94ec.chunk.css",
+  "main.js": "/static/js/main.4248a47a.chunk.js",
+  "main.js.map": "/static/js/main.4248a47a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.ecf96575.chunk.js": "/static/js/2.ecf96575.chunk.js",
+  "static/js/2.ecf96575.chunk.js.map": "/static/js/2.ecf96575.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.b704e166715915cfa742bf63f0e8b981.js": "/precache-manifest.b704e166715915cfa742bf63f0e8b981.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.8cdf94ec.chunk.css.map": "/static/css/main.8cdf94ec.chunk.css.map",
+  "static/media/App.css": "/static/media/img-6.bd11375f.jpg",
+  "static/media/img-2.jpg": "/static/media/img-2.4143d240.jpg",
+  "static/media/img-3.jpg": "/static/media/img-3.65b53910.jpg",
+  "static/media/img-4.jpg": "/static/media/img-4.0ec923fc.jpg",
+  "static/media/img-8.jpg": "/static/media/img-8.d211c298.jpg",
+  "static/media/img-9.jpg": "/static/media/img-9.523a89f6.jpg",
+  "static/media/video-2.mp4": "/static/media/video-2.3cb2fa2c.mp4"
 }
